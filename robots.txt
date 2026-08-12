@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-knoinz.yoursingles.online/sitemap.xml
